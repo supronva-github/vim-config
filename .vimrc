@@ -8,6 +8,9 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
 Plug 'rking/ag.vim'
+"ruby and rails plugins"
+Plug 'vim-ruby/vim-ruby'
+Plug 'tpope/vim-rails'
 "colorschemes"
 Plug 'morhetz/gruvbox'
 
